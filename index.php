@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Resume - Start Bootstrap Theme</title>
+        <title>Profile Toka</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
@@ -44,7 +44,7 @@
                         <span class="text-primary"><br>Ilham Abdulhadi</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Perum. Rivera Hill Zona 2 Block B5-27 · 0812-1864-3656 · 
+                        <?php echo "Perum. Rivera Hill Zona 2 Block B5-27 · 0812-1864-3656 ·" ?>
                         <a href="mailto:fajiom@gmail.com">fajiom@gmail.com</a>
                     </div>
                     <p class="lead mb-5">A Sophomore Student at Jakarta State Polytechnic, Currently also a Sophomore at CCIT FTUI.</p>
